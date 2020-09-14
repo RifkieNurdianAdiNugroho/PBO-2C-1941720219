@@ -1,7 +1,7 @@
 #MarkDown
 <img src="./percobaan1.png" />
 
-<img src="./Percobaan1main.png" />
+<img src="./percobaan1main.png" />
 
 <img src="./outputpercobaan1.png" />
 
