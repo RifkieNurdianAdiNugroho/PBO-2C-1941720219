@@ -1,6 +1,6 @@
 #markdwon
 
-<img src="./BangunDatar.png" />
+<img src="./Bangundatar.png" />
 
 <img src="./Lingkaran.png" />
 
