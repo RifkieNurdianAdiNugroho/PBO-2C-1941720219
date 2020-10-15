@@ -22,7 +22,8 @@ Jawab=attribut super itu diambil dari Gaji yang ada di Class Karyawan yang mana 
 alasannya! 
 Jawab=Multilevel Inheritance karena Supernya hanya dari Class karyawan saja bukan dari beberapa Class super.
 
-4. PERCOBAAN 2
+PERCOBAAN 2
+
 6. Berdasarkan class diatas manakah yang termasuk single inheritance 
 dan mana yang termasuk multilevel inheritance?
 Jawab=
