@@ -7,7 +7,7 @@ abstract harus di implementasikan agar sistem tahu darimana implementasi abstrac
 
 Pertnyaan
 1. Berikan penjelasan terkait tentang jalannya program diatas 
-Jawab=pertama kita membuat implementasi kelas abstract dan membuar class yang sebagai parent dari kelas yang
+Jawab=pertama kita membuat implementasi kelas abstract dan membuat class yang sebagai parent dari kelas yang
 nantinya akan diextends,akan tetapi disini kita harus mengimplimentasikan method abstract tadi agar
 kelas yang diturunkan bisa mengimplementasikannya atau fungsi yang meng-override fungsi abstract tadi,
 lalu kita bisa membuat method disetiap class yang diturunkan
